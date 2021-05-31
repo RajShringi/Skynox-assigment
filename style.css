@@ -35,3 +35,16 @@ img{
 .small-img{
     width: 20%;
 }
+
+button{
+    background: white;
+    border: 1px solid black;
+    border-radius: .3em;
+    padding: 1em;
+    margin-left: 1em;
+}
+
+.add-to-cart{
+    background: black;
+    color: white;
+}
